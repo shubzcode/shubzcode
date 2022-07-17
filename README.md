@@ -2,7 +2,7 @@
 
 **shubzcode/shubzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👋 Hi, I’m Shubham Sonune , FUll Stack Developer
+- 👋 Hi, I’m **Shubham Sonune** , FUll Stack Developer
 - 💻 I'm Full stack (MERN) Developer and Content Creator on (Social Media)
 - 🎓 I'm Graduate in 2019 from SGBAU.Amravati Maharashtra (BCA)
 - 🌱 I’m currently learning Web-development and Software Development.
