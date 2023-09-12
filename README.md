@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m **Shubham Sonune** , Full Stack Developer
 - 💻 I'm Full stack (MERN) Developer and Content Creator on (Social Media)
-- 🎓 I'm Graduate in 2019 from SGBAU.Amravati Maharashtra (BCA)
+- 🎓 I'm Graduate in 2021 from SGBAU.Amravati Maharashtra (BCA)
 - 🌱 I’m currently learning Web-development and Software Development.
 - 💕 Intreste in : Gaming, Tech Gadgets, and Explore letest Technology 
 - 👯 I’m looking to collaborate on Information Gathering
