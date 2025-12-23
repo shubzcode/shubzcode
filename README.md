@@ -1,15 +1,15 @@
 # Hi there 👋
 
-**shubzcode/shubzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shubzcode/shubzcode** 
 
 Software Engineer | Cloud & DevOps Engineer | Tech Educator
 
-🚀 Passionate about building, automating, and scaling cloud-native systems
-☁️ Working with Azure, DevOps, Kubernetes, Docker, CI/CD
-💻 Strong in Python, JavaScript, SQL, Linux, System Design
-🧠 Believer in first-principles & scientific problem-solving
-✍️ Writing tutorials on cloud, DevOps & emerging tech
-🌍 Exploring global tech opportunities & learning Spanish
+-🚀 Passionate about building, automating, and scaling cloud-native systems
+-☁️ Working with Azure, DevOps, Kubernetes, Docker, CI/CD
+-💻 Strong in Python, JavaScript, SQL, Linux, System Design
+-🧠 Believer in first-principles & scientific problem-solving
+-✍️ Writing tutorials on cloud, DevOps & emerging tech
+-🌍 Exploring global tech opportunities & learning Spanish
 
 📌 Always learning. Always building. Always improving.
 
