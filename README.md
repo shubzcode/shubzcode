@@ -1,17 +1,36 @@
-# Hi there 👋
+# Hi 👋 I’m Shubham (**shubzcode**)
 
-**shubzcode/shubzcode** 
+🚀 **Software Engineer | Cloud & DevOps Engineer**
 
-Software Engineer | Cloud & DevOps Engineer | Tech Educator
+I build, automate, and scale **cloud-native systems** using modern DevOps practices.  
+Strong believer in **first-principles & scientific problem-solving**.
 
--🚀 Passionate about building, automating, and scaling cloud-native systems
--☁️ Working with Azure, DevOps, Kubernetes, Docker, CI/CD
--💻 Strong in Python, JavaScript, SQL, Linux, System Design
--🧠 Believer in first-principles & scientific problem-solving
--✍️ Writing tutorials on cloud, DevOps & emerging tech
--🌍 Exploring global tech opportunities & learning Spanish
+---
 
-📌 Always learning. Always building. Always improving.
+## 🛠️ Tech Stack
+- ☁️ Azure, Docker, Kubernetes, CI/CD
+- ⚙️ Linux, GitHub Actions
+- 💻 Python, JavaScript, SQL
+
+---
+
+## ✍️ What I Do
+- Build & automate cloud infrastructure
+- Design CI/CD pipelines
+- Write tutorials on Cloud & DevOps
+
+---
+
+## 🌱 Currently
+- Learning advanced Cloud & DevOps
+- Exploring global tech opportunities
+- Learning Spanish 🇪🇸
+
+---
+
+📫 **GitHub:** https://github.com/shubzcode  
+
+⭐ *Always learning. Always building.*
 
 ------------------------------------------------------------------------------------------------------------------------------
 ### Tech Stack
