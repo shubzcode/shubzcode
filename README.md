@@ -2,17 +2,16 @@
 
 **shubzcode/shubzcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 👋 Hi, I’m **Shubham Sonune** , Full Stack Developer
-- 💻 I'm Full stack (MERN) Developer and Content Creator on (Social Media)
-- 🎓 I'm Graduate in 2021 from SGBAU.Amravati Maharashtra (BCA)
-- 🌱 I’m currently learning Web-development and Software Development.
-- 💕 Intreste in : Gaming, Tech Gadgets, and Explore letest Technology 
-- 👯 I’m looking to collaborate on Information Gathering
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Web, Open Source, Mobile, Electronics Devices, Tech Related Information
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Software Engineer | Cloud & DevOps Engineer | Tech Educator
+
+🚀 Passionate about building, automating, and scaling cloud-native systems
+☁️ Working with Azure, DevOps, Kubernetes, Docker, CI/CD
+💻 Strong in Python, JavaScript, SQL, Linux, System Design
+🧠 Believer in first-principles & scientific problem-solving
+✍️ Writing tutorials on cloud, DevOps & emerging tech
+🌍 Exploring global tech opportunities & learning Spanish
+
+📌 Always learning. Always building. Always improving.
 
 ------------------------------------------------------------------------------------------------------------------------------
 ### Tech Stack
